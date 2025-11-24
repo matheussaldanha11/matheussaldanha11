@@ -11,7 +11,7 @@
 
 <h3 dir="auto">🔧 Ferramentas e linguagens que estou estudando no momento:</h3>
 <div dir="auto">
-  <img src="raw.githubusercontent.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="60" style="max-width: 100%; height: auto; max-height: 60px;"></a>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="60" style="max-width: 100%; height: auto; max-height: 60px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="60" style="max-width: 100%; height: auto; max-height: 60px;"></a>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="60" style="max-width: 100%; height: auto; max-height: 60px;"></a>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="60" style="max-width: 100%; height: auto; max-height: 60px;"></a>&nbsp;
