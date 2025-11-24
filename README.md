@@ -10,16 +10,29 @@
 
 
 <h3 dir="auto">🔧 Ferramentas e linguagens que estou estudando no momento:</h3>
-<div dir="auto">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="60" style="max-width: 100%; height: auto; max-height: 60px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="60" style="max-width: 100%; height: auto; max-height: 60px;"></a>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="60" style="max-width: 100%; height: auto; max-height: 60px;"></a>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="60" style="max-width: 100%; height: auto; max-height: 60px;"></a>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="60" style="max-width: 100%; height: auto; max-height: 60px;"></a>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="60" style="max-width: 100%; height: auto; max-height: 60px;"></a>&nbsp;
+<div>
 
-  
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+
 </div>
+
+
 
 <div>
 <a href="https://github.com/matheussaldanha11">
