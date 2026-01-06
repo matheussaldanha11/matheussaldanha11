@@ -4,7 +4,7 @@
 
 
 <li>👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Universade de Passo Fundo - UPF</li>
-<li>👩‍💻 Atualmente estou focando meus estudos para Back-End e Inteligência Artificial</li>
+<li>👩‍💻 Atualmente estou focando meus estudos para Backend e Inteligência Artificial</li>
 <li>📒 Desenvolvendo alguns projetos Backend para o portfólio</li>
 
 
